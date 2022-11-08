@@ -12,13 +12,10 @@ While testing the first version, I found major bugs such as:
 - Confliction with the themes. 
 - Sticky functionality not working if the website already has a sticky bar or multiple header bars. 
 
-To overcome these two issues, I restructured the plugin and developed a new version which works through short codes. The first version worked just by installing the plugin. While the second version will work after placing the short code as the respective place and this can work with any WordPress theme be it ready-made or a custom theme. Since time was a constraint, this is the best I could come up with.  
-
->> I could have worked in a more efficient way without tracking the hours but then that would be unfair with this test task.  
+To overcome these two issues, I restructured the plugin and developed a new version which works through short codes. The first version worked just by installing the plugin. While the second version will work after placing the short code as the respective place and this can work with any WordPress theme be it ready-made or a custom theme. Since time was a constraint, this is the best I could come up with.   
 
 Plugin development files. https://prnt.sc/Wr4UBh2TcWup  
  
-
 I have added the custom CSS files to the respective “CSS” folder. https://prnt.sc/0tZQtEHJJFlN  
 In the language.css file I have added all the CSS of the plugin 
 “img” folder features all the images of the country flags for language purpose.  
